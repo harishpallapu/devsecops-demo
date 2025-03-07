@@ -35,7 +35,7 @@ src/
 └── main.tsx           # Entry point
 ```
 
-## Game Logic
+## Game Logc
 
 The game implements the following rules:
 
